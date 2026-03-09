@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+venv/
+.env/
+*.db
+.streamlit/
+
+git add .
+
+git commit -m "Initial commit: AI Code Review Assistant"

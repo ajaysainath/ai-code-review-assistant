@@ -99,7 +99,7 @@ The system follows these steps:
 **Installation**
 Clone the repository:
 
-git clone https://github.com/yourusername/ai-code-review-assistant.git
+git clone https://github.com/ajaysainath/ai-code-review-assistant.git
 cd ai-code-review-assistant
 
 Install dependencies:

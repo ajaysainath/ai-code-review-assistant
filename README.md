@@ -1,6 +1,6 @@
 **AI Code Review Assistant**
 
-# AI Code Review Assistant
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
